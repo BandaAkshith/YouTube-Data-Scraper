@@ -35,7 +35,7 @@ pip install google-api-python-client youtube-transcript-api pandas pytz
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youtube-data-scraper.git
+   git clone https://github.com/BandaAkshith/YouTube-Data-Scraper.git
    cd youtube-data-scraper
    ```
 
